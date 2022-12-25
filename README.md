@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# React UI Practice
+![Screenshot 2022-12-25 150111](https://user-images.githubusercontent.com/63228248/209463019-efebe001-9743-472c-83c9-b5fae7ef04e1.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
